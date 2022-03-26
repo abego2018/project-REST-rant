@@ -2,3 +2,13 @@ h1 {
     text-align: center;
     color: cornflowerblue;
   }
+  img{
+      width:800px;
+  }
+
+  .pug{
+      width:300px;
+      display:block;
+      margin-right:auto;
+      margin-left:auto;
+  }
