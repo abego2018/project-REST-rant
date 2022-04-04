@@ -1,3 +1,5 @@
+require('dotenv').config()
+const req = require('express/lib/request')
 const mongoose = require('mongoose')
 
 mongoose.connect(process.env.MONGO_URI, {
